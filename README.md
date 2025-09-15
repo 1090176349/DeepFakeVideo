@@ -103,7 +103,7 @@ The training script generates and saves the following visualizations after train
 These plots help analyze model performance trends, overfitting, and convergence.
 
 ## Conclusion
-This project presents a comprehensive workflow for deepfake video detection, integrating 3D residual networks with advanced temporal filtering and uncertainty-aware fusion modules. The framework includes data loading, model training with early stopping, performance evaluation, and result visualization, providing a robust solution for detecting manipulated video content.
+This project presents a comprehensive workflow for deepfake video detection, integrating 3D residual networks with advanced temporal filtering and uncertainty-aware fusion modules. The framework includes data loading, model training with early stopping, performance evaluation, providing a robust solution for detecting manipulated video content.
 
 Citation
 
