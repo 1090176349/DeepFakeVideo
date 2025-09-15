@@ -104,3 +104,17 @@ These plots help analyze model performance trends, overfitting, and convergence.
 
 ## Conclusion
 This project presents a comprehensive workflow for deepfake video detection, integrating 3D residual networks with advanced temporal filtering and uncertainty-aware fusion modules. The framework includes data loading, model training with early stopping, performance evaluation, and result visualization, providing a robust solution for detecting manipulated video content.
+
+Citation
+
+If you find this repository useful in your research, please consider giving a star ⭐ and a citation
+
+```bibtex
+@article{Zhang2025SDEQNet,
+  title={Enhancing Deepfake Video Detection via Stochastic Differential Equations and Quantum Uncertainty Fusion},
+  author={Ruixing Zhang and Bin Li and Degang Xu},
+  journal={The Visual Computer},
+  year={2025},
+  publisher={Springer}
+}
+```
