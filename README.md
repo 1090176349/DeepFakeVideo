@@ -16,6 +16,9 @@ To run this project, you'll need to have the following libraries installed:
 - Pillow (PIL)
 - numpy
 - opencv-python
+- dlib
+- pandas
+- tqdm
 
 You can install the required libraries using pip:
 
