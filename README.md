@@ -113,7 +113,7 @@ If you find this repository useful in your research, please consider giving a st
 @article{Zhang2025SDEQNet,
   title={Enhancing Deepfake Video Detection via Stochastic Differential Equations and Quantum Uncertainty Fusion},
   author={Ruixing Zhang and Bin Li and Degang Xu},
-  journal={The Visual Computer},
+  journal={Journal of Real-Time Image Processing},
   year={2025},
   publisher={Springer}
 }
