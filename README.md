@@ -111,7 +111,7 @@ If you find this repository useful in your research, please consider giving a st
 
 ```bibtex
 @article{Zhang2025SDEQNet,
-  title={Enhancing Deepfake Video Detection via Stochastic Differential Equations and Quantum Uncertainty Fusion},
+  title={A Deepfake Video Anomaly Detection Method Integrating Stochastic Differential Equations and Quantum Uncertainty Mechanisms},
   author={Ruixing Zhang and Bin Li and Degang Xu},
   journal={},
   year={2025},
